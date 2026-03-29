@@ -1,4 +1,4 @@
-module github.com/trainwithshubham/skillpulse
+module github.com/Kowsalya-Rathinasamy/SkillpulseAzureDeployment
 
 go 1.22
 
